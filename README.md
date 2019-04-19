@@ -30,6 +30,7 @@
 
 
 **建议**
+
 使用官方最新的脚手架搭建项目：https://github.com/nuxt/create-nuxt-app
 
 
